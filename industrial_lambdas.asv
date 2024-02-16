@@ -1,0 +1,6 @@
+clc, clear, close all
+
+Re = [1760
+      1780
+      1800
+      1820];
